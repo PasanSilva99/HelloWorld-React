@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+If you're New to React framework, go inside the src foledr. there is a file called index.js . You can see the instructions there.
+
 ## Available Scripts
 
 In the project directory, you can run:
